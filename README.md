@@ -19,12 +19,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=R-Reichenbach.R-Reichenbach&"  />
-</div>
-
-###
-
 <h2 align="center">Hey There 👋</h2>
 
 ###
